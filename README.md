@@ -1,2 +1,3 @@
 # BookList
-Udemy Redux Example
+
+Educational example.
